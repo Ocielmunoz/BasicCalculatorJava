@@ -6,7 +6,7 @@ import java.util.HashSet;
  */
 
 /**
-  * @author OcielMunoz
+  * @authors OcielMunoz, Omar Pozo and Paniz Golzar 
  */
 public class OcielJPanelForm extends javax.swing.JFrame {
 
